@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 /*TABLET*/
-@media screen and (min-width: 768px) and (max-width:992px) { 
+@media screen and (min-width: 768px){ 
     body{
         background-image: linear-gradient(to top, #3d60a1, #7d89a0 );
     }
@@ -23,8 +23,8 @@
     
 }
 
-/*TELAS MAIORES*/
-@media screen and (min-width:992px) {
+/*TELAS MAIORES
+@media screen and (min-width:993px) {
     body{
         background-image: linear-gradient(to top, #3d60a1, #7d89a0 );
     }
@@ -41,3 +41,4 @@
         width: 50%;
     }
 }
+*/
